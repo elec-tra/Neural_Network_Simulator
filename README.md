@@ -1,7 +1,7 @@
 # Neural Network Simulator
 This is a simple neural network designed in windows forms to give visualisation of artificial neurons and its functionality.
 
-##Specifications:
+#Specifications:
 <pre>
 Run In                  : Windows Platform<br/>
 Library                 : Windows Forms(open-source)<br/>
